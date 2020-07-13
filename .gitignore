@@ -1,2 +1,4 @@
 venv
 car_token.zip
+.idea
+.ipynb_checkpoints
